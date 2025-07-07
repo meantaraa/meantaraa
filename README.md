@@ -96,11 +96,11 @@
     <tr>
       <td>
         <!-- Most Used Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antarachanda&layout=compact&theme=dark&hide_border=true" height="200px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antarachanda&layout=compact&theme=dark&hide_border=true" height="175px"/>
       </td>
       <td>
         <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=antarachanda&show_icons=true&theme=dark&hide_border=true" height="200px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=antarachanda&show_icons=true&theme=dark&hide_border=true" height="175px"/>
       </td>
     </tr>
   </table>
