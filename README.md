@@ -98,19 +98,25 @@
 
 ---
 
-### 📈 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meantaraa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antarachanda&layout=compact&theme=dark" height="200px"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meantaraa&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=antarachanda&show_icons=true&theme=dark" height="200px"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meantaraa" alt="GitHub Streak" />
-</p>
+</div>
+
+<br>
+
+<!-- Contribution Streak (Full width below) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antarachanda&theme=dark" width="95%"/>
+</div>
+
 
 ---
 
