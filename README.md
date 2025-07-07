@@ -120,24 +120,10 @@
 
 <!-- Contribution Streak (Full Width) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antarachanda&theme=dark&hide_border=true" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antarachanda&theme=dark&hide_border=true" width="75%" />
 </div>
 
 <br/>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Pacman-style contribution graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
 
 ---
 
