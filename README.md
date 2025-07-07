@@ -88,16 +88,6 @@
 
 ---
 
-### 📝 Latest Blog Posts
-
-<!-- Replace with actual RSS if you're using a GitHub Action or automation tool -->
-<!-- Static links as placeholder -->
-- [✨ Frictionless UI Design with Microinteractions](https://medium.com/@strawberryme)
-- [📦 Building Reusable Design Systems](https://medium.com/@strawberryme)
-- [🔧 Animating with GSAP in React](https://medium.com/@strawberryme)
-
----
-
 <h2>📊 GitHub Stats</h2>
 
 <!-- Stats Grid -->
