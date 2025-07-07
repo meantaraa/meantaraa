@@ -29,11 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/meantaraa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/meantaraa" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meantaraa&show_icons=true&locale=en&layout=compact" alt="meantaraa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meantaraa&show_icons=true&locale=en" alt="meantaraa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meantaraa&" alt="meantaraa" /></p>
 
 
 
