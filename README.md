@@ -100,23 +100,44 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antarachanda&layout=compact&theme=dark" height="200px"/>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=antarachanda&show_icons=true&theme=dark" height="200px"/>
-
-</div>
-
-<br>
-
-<!-- Contribution Streak (Full width below) -->
+<!-- Stats Grid -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antarachanda&theme=dark" width="95%"/>
+  <table>
+    <tr>
+      <td>
+        <!-- Most Used Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antarachanda&layout=compact&theme=dark&hide_border=true" height="200px"/>
+      </td>
+      <td>
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=antarachanda&show_icons=true&theme=dark&hide_border=true" height="200px"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br/>
+
+<!-- Contribution Streak (Full Width) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antarachanda&theme=dark&hide_border=true" width="90%" />
+</div>
+
+<br/>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Pacman-style contribution graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ---
 
