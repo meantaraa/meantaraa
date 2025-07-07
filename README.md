@@ -87,12 +87,49 @@
 </details>
 
 ---
-### 🐍 GitHub Activity Animation
 
-<br clear="both">
+### 📝 Latest Blog Posts
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- Replace with actual RSS if you're using a GitHub Action or automation tool -->
+<!-- Static links as placeholder -->
+- [✨ Frictionless UI Design with Microinteractions](https://medium.com/@strawberryme)
+- [📦 Building Reusable Design Systems](https://medium.com/@strawberryme)
+- [🔧 Animating with GSAP in React](https://medium.com/@strawberryme)
+
 ---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meantaraa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meantaraa&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meantaraa" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meantaraa&theme=flat" alt="meantaraa trophies" />
+</p>
+
+---
+
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/meantaraa">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
 
 ### ☕ Support Me
 
