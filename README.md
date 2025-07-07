@@ -120,7 +120,7 @@
 
 <!-- Contribution Streak (Full Width) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antarachanda&theme=dark&hide_border=true" width="75%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antarachanda&theme=dark&hide_border=true" width="80%" />
 </div>
 
 <br/>
