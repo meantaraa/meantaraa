@@ -77,7 +77,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meantaraa&theme=flat" alt="aantaaraaa trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aantaaraaa&theme=flat" alt="aantaaraaa trophies" />
 </p>
 
 
