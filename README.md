@@ -4,7 +4,7 @@
 <h3 align="center">A UX Designer & Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meantaraa&label=Profile%20views&color=0e75b6&style=flat" alt="meantaraa" />
+  <img src="https://komarev.com/ghpvc/?username=aantaaraaa&label=Profile%20views&color=0e75b6&style=flat" alt="aantaaraaa" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meantaraa&theme=flat" alt="meantaraa trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=meantaraa&theme=flat" alt="aantaaraaa trophies" />
 </p>
 
 
